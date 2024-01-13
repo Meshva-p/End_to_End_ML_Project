@@ -1,1 +1,28 @@
-key : value
+COLUMNS:
+  Product type: object 
+  SKU: object 
+  Price: float64
+  Availability: int64  
+  Number of products sold: int64  
+  Revenue generated: float64
+  Customer demographics : object 
+  Stock levels: int64  
+  Lead times: int64  
+  Order quantities: int64  
+  Shipping times: int64  
+  Shipping carriers: object 
+  Shipping costs: float64
+  Supplier name: object 
+  Location: object 
+  Lead time: int64  
+  Production volumes: int64  
+  Manufacturing lead time: int64  
+  Manufacturing costs: float64
+  Inspection results: object
+  Defect rates: float64
+  Transportation modes: object
+  Routes: object 
+  Costs: float64
+
+TARGET_COLUMN:
+  name: Manufacturing costs
