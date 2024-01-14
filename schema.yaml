@@ -25,4 +25,4 @@ COLUMNS:
   Costs: float64
 
 TARGET_COLUMN:
-  name: Manufacturing costs
+  name: Number of products sold
