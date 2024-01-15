@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Masters/Fall_23/End_to_End_Project/End_to_End_ML_Project/mlruns/0/8138860ab22c4e0ba00766fe0d8c2c4a/artifacts
+end_time: 1705287700571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8138860ab22c4e0ba00766fe0d8c2c4a
+run_name: classy-kit-969
+run_uuid: 8138860ab22c4e0ba00766fe0d8c2c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705287695328
+status: 3
+tags: []
+user_id: CSE_IT

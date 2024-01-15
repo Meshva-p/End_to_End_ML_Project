@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Masters/Fall_23/End_to_End_Project/End_to_End_ML_Project/mlruns/0/e01da98f093749298c1f1e9e85c70665/artifacts
+end_time: 1705288756226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e01da98f093749298c1f1e9e85c70665
+run_name: dazzling-shark-348
+run_uuid: e01da98f093749298c1f1e9e85c70665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705288752222
+status: 3
+tags: []
+user_id: CSE_IT
